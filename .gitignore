@@ -1,0 +1,6 @@
+# Project exclude paths
+/target/
+.git/
+.idea/
+log.txt
+
